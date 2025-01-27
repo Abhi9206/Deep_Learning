@@ -1,2 +1,3 @@
 print("Abhilasha")
-print("Hello world")
+
+print("Hello")
