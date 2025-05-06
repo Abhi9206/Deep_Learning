@@ -18,13 +18,13 @@ DeepLearning_FinalProject/
 ├── Project-Report/                  # Final project report documents
 ├── Project-Proposal/                # Initial project proposal materials
 ├── Vision_transformer/              # An attempted script, not used later
-├── Dataset-loading/                 # Scripts for data loading and processing datasets
+├── dataset-loading/                 # Scripts for data loading and processing datasets
 │   └── (data loader script Data_Preprocessing.py has only been used finally)
-├── Train/                           # Model training implementation
+├── train/                           # Model training implementation
 │   └── (Updated Base model, Architecture 1 and 2 implementation)
-├── Train_vit/                       # Vision transformer training
+├── train_vit/                       # Vision transformer training
 │   └── (Segmentation Transfromer implementation)
-├── Utils/                           # Utility functions and helper scripts
+├── utils/                           # Utility functions and helper scripts
     
 ```
 
