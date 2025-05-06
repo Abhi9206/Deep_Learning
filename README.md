@@ -1,6 +1,6 @@
 # Deep Learning Project on Audi Autonomous Driving Dataset
 
-This repository contains  final project for the Deep Learning course.
+This repository contains project for the Deep Learning course.
 
 
 ## Project Overview
