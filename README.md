@@ -16,7 +16,7 @@ DeepLearning_FinalProject/
 ├── App/                             # Application implementation
 ├── Presentation/                    # Presentation materials for the final project
 ├── Project-Report/                  # Final project report documents
-├── Project-Proposal/                  # Initial project proposal materials
+├── Project-Proposal/                # Initial project proposal materials
 ├── Vision_transformer/              # An attempted script, not used later
 ├── Dataset-loading/                 # Scripts for data loading and processing datasets
 │   └── (data loader script Data_Preprocessing.py has only been used finally)
