@@ -13,7 +13,6 @@ This work allows us to examine how segmentation models can differentiate between
 
 ```
 DeepLearning_FinalProject/
-├── .idea/                           # IDE configuration files
 ├── App/                             # Application implementation
 ├── Final-Group-Presentation/        # Presentation materials for the final project
 ├── Final-Group-Project-Report/      # Final project report documents
