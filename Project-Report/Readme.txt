@@ -1,1 +1,1 @@
-This folder contains the group project report
+This folder contains the project report
