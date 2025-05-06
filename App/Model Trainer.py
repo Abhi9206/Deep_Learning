@@ -1,5 +1,5 @@
 # streamlit_segmentation_direct.py
-
+#
 import streamlit as st
 from pathlib import Path
 from PIL import Image
@@ -37,7 +37,7 @@ rgb_to_class = {
 # ==========================
 # PAGE SETUP
 # ==========================
-st.set_page_config(page_title="Model Training App", layout="wide")
+st.set_page_config(page_title="Model_Training_App", layout="wide")
 st.title("📊 Model Training ")
 st.markdown("---")
 
