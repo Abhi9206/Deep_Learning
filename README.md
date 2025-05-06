@@ -14,17 +14,17 @@ This work allows us to examine how segmentation models can differentiate between
 ```
 DeepLearning_FinalProject/
 ├── App/                             # Application implementation
-├── Final-Group-Presentation/        # Presentation materials for the final project
-├── Final-Group-Project-Report/      # Final project report documents
-├── Group-Proposal/                  # Initial project proposal materials
+├── Presentation/                    # Presentation materials for the final project
+├── Project-Report/                  # Final project report documents
+├── Project-Proposal/                  # Initial project proposal materials
 ├── Vision_transformer/              # An attempted script, not used later
-├── dataset-loading/                 # Scripts for data loading and processing datasets
+├── Dataset-loading/                 # Scripts for data loading and processing datasets
 │   └── (data loader script Data_Preprocessing.py has only been used finally)
-├── train/                           # Model training implementation
+├── Train/                           # Model training implementation
 │   └── (Updated Base model, Architecture 1 and 2 implementation)
-├── train_vit/                       # Vision transformer training
+├── Train_vit/                       # Vision transformer training
 │   └── (Segmentation Transfromer implementation)
-├── utils/                           # Utility functions and helper scripts
+├── Utils/                           # Utility functions and helper scripts
     
 ```
 
